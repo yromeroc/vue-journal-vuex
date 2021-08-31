@@ -2,21 +2,21 @@ export default () => ({
   isLoading: true,
   entries: [
     {
-      id: new Date().getTime(),
+      id: "1", //new Date().getTime(),
       date: new Date().toDateString(),
       picture: null,
       text:
         "Velit reprehenderit amet adipisicing irure qui ipsum dolor ipsum. Enim minim esse et ad excepteur do qui irure. Enim eu magna cupidatat Lorem ad ad. Fugiat laborum incididunt aute irure. Dolore aliquip elit voluptate ea labore sint minim sit.",
     },
     {
-      id: new Date().getTime() + 1000,
+      id: "2", //new Date().getTime() + 1000,
       date: new Date().toDateString(),
       picture: null,
       text:
         "Do occaecat et adipisicing sunt mollit sint aliqua. Nulla ullamco et ex ipsum ullamco nisi duis quis anim. Minim nostrud officia ullamco amet tempor do. Occaecat laborum esse in exercitation esse fugiat. Ullamco nulla labore deserunt id deserunt cillum exercitation incididunt officia cillum aliquip et fugiat.",
     },
     {
-      id: new Date().getTime() + 2000,
+      id: "3", //new Date().getTime() + 2000,
       date: new Date().toDateString(),
       picture: null,
       text:
